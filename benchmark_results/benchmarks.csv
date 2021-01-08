@@ -1,0 +1,35 @@
+function,flag,n,cycles,timing,intops,plot_index,graph_title
+Sawtooth + Modulo precomputation,g++,4,138.149,3.83747e-05,0.195441,1,Radix 4 Recursive - Vectorized
+same with fma,g++,4,138.064,3.83511e-05,0.195562,1,Radix 4 Recursive - Vectorized
+Sawtooth + Modulo precomputation,g++,8,263.685,7.32457e-05,0.326147,1,Radix 4 Recursive - Vectorized
+same with fma,g++,8,266.245,7.39571e-05,0.32301,1,Radix 4 Recursive - Vectorized
+Sawtooth + Modulo precomputation,g++,16,304.058,8.44606e-05,0.828789,1,Radix 4 Recursive - Vectorized
+same with fma,g++,16,304.379,8.45499e-05,0.827914,1,Radix 4 Recursive - Vectorized
+Sawtooth + Modulo precomputation,g++,32,649.011,0.000180281,0.973789,1,Radix 4 Recursive - Vectorized
+same with fma,g++,32,654.718,0.000181866,0.965301,1,Radix 4 Recursive - Vectorized
+Sawtooth + Modulo precomputation,g++,64,1590.75,0.000441876,0.995755,1,Radix 4 Recursive - Vectorized
+same with fma,g++,64,1584.2,0.000440056,0.999874,1,Radix 4 Recursive - Vectorized
+Sawtooth + Modulo precomputation,g++,128,3500.94,0.000972482,1.05115,1,Radix 4 Recursive - Vectorized
+same with fma,g++,128,3663.83,0.00101773,1.00441,1,Radix 4 Recursive - Vectorized
+Sawtooth + Modulo precomputation,g++,256,8600.28,0.00238897,1.00462,1,Radix 4 Recursive - Vectorized
+same with fma,g++,256,8695.39,0.00241539,0.993629,1,Radix 4 Recursive - Vectorized
+Sawtooth + Modulo precomputation,g++,512,18830.9,0.00523081,1.0264,1,Radix 4 Recursive - Vectorized
+same with fma,g++,512,18949.9,0.00526387,1.01995,1,Radix 4 Recursive - Vectorized
+Sawtooth + Modulo precomputation,g++,1024,44606.4,0.0123907,0.981383,1,Radix 4 Recursive - Vectorized
+same with fma,g++,1024,44663.9,0.0124066,0.98012,1,Radix 4 Recursive - Vectorized
+Sawtooth + Modulo precomputation,g++,2048,95418.4,0.0265051,1.00341,1,Radix 4 Recursive - Vectorized
+same with fma,g++,2048,97427,0.027063,0.982726,1,Radix 4 Recursive - Vectorized
+Sawtooth + Modulo precomputation,g++,4096,267148,0.0742079,0.793447,1,Radix 4 Recursive - Vectorized
+same with fma,g++,4096,261581,0.0726615,0.810333,1,Radix 4 Recursive - Vectorized
+Sawtooth + Modulo precomputation,g++,8192,460412,0.127892,0.991946,1,Radix 4 Recursive - Vectorized
+same with fma,g++,8192,460212,0.127837,0.992378,1,Radix 4 Recursive - Vectorized
+Sawtooth + Modulo precomputation,g++,16384,1.04309e+06,0.289746,0.954215,1,Radix 4 Recursive - Vectorized
+same with fma,g++,16384,1.06765e+06,0.296568,0.932264,1,Radix 4 Recursive - Vectorized
+Sawtooth + Modulo precomputation,g++,32768,2.21274e+06,0.614649,0.95887,1,Radix 4 Recursive - Vectorized
+same with fma,g++,32768,2.24237e+06,0.622881,0.946199,1,Radix 4 Recursive - Vectorized
+Sawtooth + Modulo precomputation,g++,65536,5.14975e+06,1.43049,0.887642,1,Radix 4 Recursive - Vectorized
+same with fma,g++,65536,5.30146e+06,1.47263,0.862241,1,Radix 4 Recursive - Vectorized
+Sawtooth + Modulo precomputation,g++,131072,1.06611e+07,2.96141,0.906715,1,Radix 4 Recursive - Vectorized
+same with fma,g++,131072,1.08445e+07,3.01236,0.891378,1,Radix 4 Recursive - Vectorized
+Sawtooth + Modulo precomputation,g++,262144,2.3568e+07,6.54667,0.875926,1,Radix 4 Recursive - Vectorized
+same with fma,g++,262144,2.32872e+07,6.46867,0.886488,1,Radix 4 Recursive - Vectorized

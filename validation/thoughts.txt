@@ -1,0 +1,10 @@
+L3 on my machine is 4MB
+
+that is 2^25 bits
+that is 2^20 (32b integers)
+
+So we wanna go to at least 2^22 or 2^23
+
+---------------
+
+4253024257 prime = 3*169*(2^23)+1   -> could test up to 2^23
